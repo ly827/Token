@@ -75,8 +75,6 @@ $sign = (new Token()->signVerify($sign, $data));
 //return true|false
 ```
 
-Test
-
 
 
 
